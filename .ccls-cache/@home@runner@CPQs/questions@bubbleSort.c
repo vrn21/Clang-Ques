@@ -25,6 +25,6 @@ int main() {
 
   printf("The sorted array is : ");
   for (int m = 0; m < n; m++) {
-printf(%d", array[m]);
+printf("%d", array[m]);
   }
 }

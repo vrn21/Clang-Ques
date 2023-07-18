@@ -19,7 +19,7 @@ int main(void) {
     if (array[i] == digit) {
       frequency++;
     }
-  printf("The number %d occured %d times ", digit, frequency);
+ times ", digit, frequency);
   }
 
   return 0;
